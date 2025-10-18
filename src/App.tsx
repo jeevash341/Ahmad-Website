@@ -111,7 +111,7 @@ function App() {
               <img
                 src="/IMG-20251018-WA0171.jpg"
                 alt="Car"
-                className="w-64 h-60 object-cover rounded-2xl shadow-2xl"
+                className="w-full h-auto object-cover rounded-2xl shadow-2xl"
               />
             </div>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
