@@ -108,11 +108,6 @@ function App() {
         <div className={`container mx-auto px-6 py-24 relative z-10 transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           <div className="max-w-4xl mx-auto text-center">
             <div className="mb-8 flex justify-center">
-              <img
-                src="/IMG-20251018-WA0171.jpg"
-                alt="Car"
-                className="w-full h-auto object-cover rounded-2xl shadow-2xl"
-              />
             </div>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
               Ahmad Web Master & Social Media All Service Provider
